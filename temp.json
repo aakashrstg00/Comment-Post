@@ -3,7 +3,7 @@
       {  
          "postId":98970,
          "posterName":"Atul Khatri",
-         "posterId":"debusaum9898",
+         "posterId":"one_by_two",
          "postContent":"Hey its the 43 year old standup comedian!",
          "postLiked":true,
          "postLikes":[  
@@ -30,8 +30,8 @@
       {  
          "postId":98971,
          "posterName":"Vicky Malhotra",
-         "posterId":"amittalcool96",
-         "postContent":"Hello Mahselfs Vicky Malhotra!! How's yourselvs? I am a struggling actor.",
+         "posterId":"varunthakur",
+         "postContent":"Hello Mahselv Vicky Malhotra!! How's yourselvs? I am a struggling actor. I put the ugg in struggle.   ",
          "postLiked":true,
          "postLikes":[  
             "Q",
@@ -43,7 +43,7 @@
          "postComments":[  
             {  
                "posterName":"Varun Thakur",
-               "posterId":"vtkrsng",
+               "posterId":"vickycoolmalhotra",
                "posterComment":"I am good Vicky."
             }
          ],
@@ -52,28 +52,35 @@
       {  
          "postId":98972,
          "posterName":"Arnab Goswami",
-         "posterId":"debmausum989",
+         "posterId":"myvoicemyrules",
          "postContent":"The nation wants to know!",
          "postLiked":false,
          "postLikes":[  
             "A",
             "S",
-            "D",
-            "F",
             "G"
          ],
          "postComments":[  
-
+            {  
+               "posterName":"Varun Grover",
+               "posterId":"kagaznahidikhayenge",
+               "posterComment":"But not Indigo."
+            }
          ],
          "viewComments":false
       },
       {  
          "postId":98975,
-         "posterName":"Gaurav Sharma",
-         "posterId":"scstobcool96",
-         "postContent":"To dosto chaliye shuru karte hai.",
+         "posterName":"Kunal Kamra",
+         "posterId":"antinationalkamra",
+         "postContent":"Met a silent snake in a flight recently",
          "postLiked":false,
          "postLikes":[  
+            "Q",
+            "W",
+            "E",
+            "R",
+            "T",
             "Q",
             "W",
             "E",
@@ -82,9 +89,9 @@
          ],
          "postComments":[  
             {  
-               "posterName":"Abhishek Bhatnagar",
-               "posterId":"gadgetstouse",
-               "posterComment":"let's begin Guruji."
+               "posterName":"Arnab Goswami",
+               "posterId":"myvoicemyrules",
+               "posterComment":"              "
             }
          ],
          "viewComments":false
@@ -105,8 +112,8 @@
          "postComments":[  
             {  
                "posterName":"Aakash Rastogi",
-               "posterId":"aakashrstg1200",
-               "posterComment":"Paneer samajh ke kha ja."
+               "posterId":"aakashrastogi",
+               "posterComment":"Ha vaha vlog acha banega na."
             }
          ],
          "viewComments":false
